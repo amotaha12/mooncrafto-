@@ -43,3 +43,4 @@ function mode(x){alert('گیم مود '+x+' انتخاب شد! برای ورود
 login.onsubmit=e=>{e.preventDefault();msg.textContent='برای ورود واقعی باید Firebase متصل شود.'};signup.onsubmit=e=>{e.preventDefault();msg.textContent='برای ثبت‌نام واقعی باید Firebase متصل شود.'}
 </script>
 </body></html>
+<meta name="google-site-verification" content="RG9MB2JoQ7HD7HkadilRPmDkSzJfixhukIjOLBLXGEw" />
